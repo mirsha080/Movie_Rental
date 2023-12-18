@@ -1,0 +1,50 @@
+/**
+ * @class Ext.panel.Header
+ */
+/**
+ * Creates a visual theme for a Panel Header.
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {String} [$xtype=panelheader] (protected) The {@link Ext.Class#xtype} to use
+ * in CSS selectors.  For use by UI mixins of derived classes.
+ *
+ * @param {color} $background-color
+ * Panel Header background-color
+ *
+ * @param {string/list} $background-gradient
+ * Panel Header background-gradient.  Can be either the name of a gradient defined by
+ * {@link Global_CSS#background-gradient} or a list of color stops.
+ *
+ * @param {color/list} $border-color
+ * Panel Header border-color
+ *
+ * @param {number/list} $border-width
+ * Panel Header border-width
+ *
+ * @param {string/list} $border-style
+ * Panel Header border-style
+ *
+ * @param {number/list} $padding
+ * Panel Header padding
+ *
+ * @param {number/list} $padding-big
+ * Panel Header padding in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {shadow} $shadow
+ * Panel Header Shadow
+ *
+ * @param {number} $z-index
+ * Z-Index for the PanelHeader, should be used with shadows to raise header above content
+ *
+ * @param {number} $min-height
+ * Panel Header min-height
+ *
+ * @param {number} $min-height-big
+ * Panel Header min-height in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @private
+ */
+/*# sourceMappingURL=Header.css.map */

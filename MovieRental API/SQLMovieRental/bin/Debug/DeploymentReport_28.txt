@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[FK_movie_rental_ToTable] (Foreign Key)
+       [dbo].[FK_rental_movie_ToTable] (Foreign Key)
+       [dbo].[FK_Rental_ToTable] (Foreign Key)
+     Create
+       [dbo].[FK_movie_rental_ToTable] (Foreign Key)
+       [dbo].[FK_rental_movie_ToTable] (Foreign Key)
+       [dbo].[FK_Rental_ToTable] (Foreign Key)
+
+** Supporting actions

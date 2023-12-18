@@ -1,0 +1,21 @@
+/**
+ * Adds a font specification to an element.
+ * Uses a single "font" property if possible, otherwise uses separate font-family, font-size,
+ * font-weight and line-height properties.
+ *
+ * @param {number/string} [$font-weight=null]
+ * The font-weight
+ *
+ * @param {number/string} [$font-size=null]
+ * The font-size
+ *
+ * @param {number/string} [$line-height=null]
+ * The line-height
+ *
+ * @param {string} [$font-family=null]
+ * The font-family
+ * 
+ * @member Global_CSS
+ * @private
+ */
+/*# sourceMappingURL=font.css.map */

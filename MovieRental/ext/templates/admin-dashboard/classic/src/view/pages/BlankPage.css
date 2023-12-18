@@ -1,0 +1,26 @@
+.blank-page-container {
+  text-align: center;
+  color: dynamic(#cacaca);
+}
+
+.blank-page-container .fa-outer-class {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  background-color: dynamic(#ebebeb);
+  text-align: center;
+}
+
+.blank-page-container .fa-outer-class .x-fa:before {
+  line-height: 150px;
+  font-size: 80px;
+  color: dynamic(#cacaca);
+}
+
+.blank-page-container h1 {
+  margin: 5px;
+  line-height: 30px;
+  font-weight: normal;
+}
+/*# sourceMappingURL=BlankPage.css.map */

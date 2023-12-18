@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,gCAAgC",
+    "sources": [
+        "BoundList.scss"
+    ],
+    "names": [],
+    "file": "BoundList.css"
+}

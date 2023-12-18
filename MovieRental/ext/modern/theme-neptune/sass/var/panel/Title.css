@@ -1,0 +1,78 @@
+/**
+ * @class Ext.panel.Title
+ */
+/**
+ * Creates a visual theme for a Panel Title.
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {String} [$xtype=paneltitle] (protected) The {@link Ext.Class#xtype} to use
+ * in CSS selectors.  For use by UI mixins of derived classes.
+ *
+ * @param {color} $color
+ * Panel Title text color
+ *
+ * @param {string/number} $font-weight
+ * Panel Title font-weight
+ *
+ * @param {number} $font-size
+ * Panel Title font-size
+ *
+ * @param {number} $font-size-big
+ * Panel Title font-size in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {number} $line-height
+ * Panel Title line-height
+ *
+ * @param {number} $line-height-big
+ * Panel Title line-height in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {string} $font-family
+ * Panel Title font-family
+ *
+ * @param {number/list} $padding
+ * Panel Title padding
+ *
+ * @param {number/list} $padding-big
+ * Panel Title padding in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {number/list} $opacity
+ * Panel Title opacity
+ *
+ * @param {color} $icon-color
+ * Panel Title icon color.
+ *
+ * @param {number} $icon-size
+ * Panel Title icon size
+ *
+ * @param {number} $icon-size-big
+ * Panel Title icon size in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {number} $icon-font-size
+ * Panel Title icon font-size.  Used for configuring the size of font icons
+ *
+ * @param {number} $icon-font-size-big
+ * Panel Title icon font-size in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {number} $icon-horizontal-spacing
+ * The space between the Panel Title icon and text when the icon is horizontally aligned
+ *
+ * @param {number} $icon-horizontal-spacing-big
+ * The space between the Panel Title icon and text when the icon is horizontally aligned
+ * in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {number} $icon-vertical-spacing
+ * The space between the Panel Title icon and text when the icon is vertically aligned
+ *
+ * @param {number} $icon-vertical-spacing-big
+ * The space between the Panel Title icon and text when the icon is vertically aligned
+ * in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {number} $icon-opacity
+ * Panel Title icon opacity
+ *
+ * @private
+ */
+/*# sourceMappingURL=Title.css.map */

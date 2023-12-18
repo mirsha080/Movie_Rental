@@ -1,0 +1,49 @@
+/**
+ * @class Ext.grid.plugin.SummaryRow
+ */
+/**
+ * @var {color}
+ * Summary row text color
+ */
+/**
+ * @var {color}
+ * Summary row background-color
+ */
+/**
+ * @var {number}
+ * Summary row border-width
+ */
+/**
+ * @var {string}
+ * Summary row border-style
+ */
+/**
+ * @var {color}
+ * Summary row border-color
+ */
+/**
+ * Creates a visual theme for a grid summary row.
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {String} [$xtype=summaryrow] (protected) The {@link Ext.Class#xtype} to use
+ * in CSS selectors.  For use by UI mixins of derived classes.
+ *
+ * @param {color} $color
+ * Summary row text color
+ *
+ * @param {color} $background-color
+ * Summary row background-color
+ *
+ * @param {number} $border-width
+ * Summary row border-width
+ *
+ * @param {string} $border-style
+ * Summary row border-style
+ *
+ * @param {color} $border-color
+ * Summary row border-color
+ */
+/*# sourceMappingURL=Summary.css.map */

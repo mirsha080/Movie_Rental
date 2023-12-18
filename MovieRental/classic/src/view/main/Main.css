@@ -1,0 +1,51 @@
+/* Error: Undefined mixin.
+ *    ,
+ * 11 | / @include extjs-tab-panel-ui(
+ * 12 | |     $ui: 'navigation',
+ * 13 | |     $ui-tab-background-color: transparent,
+ * 14 | |     $ui-tab-background-color-over: #505050,
+ * 15 | |     $ui-tab-background-color-active: #303030,
+ * 16 | |     $ui-tab-background-gradient: 'none',
+ * 17 | |     $ui-tab-background-gradient-over: 'none',
+ * 18 | |     $ui-tab-background-gradient-active: 'none',
+ * 19 | |     $ui-tab-color: #acacac,
+ * 20 | |     $ui-tab-color-over: #c4c4c4,
+ * 21 | |     $ui-tab-color-active: #fff,
+ * 22 | |     $ui-tab-glyph-color: #acacac,
+ * 23 | |     $ui-tab-glyph-color-over: #c4c4c4,
+ * 24 | |     $ui-tab-glyph-color-active: #fff,
+ * 25 | |     $ui-tab-glyph-opacity: 1,
+ * 26 | |     $ui-tab-border-radius: 0,
+ * 27 | |     $ui-tab-border-width: 0,
+ * 28 | |     $ui-tab-inner-border-width: 0,
+ * 29 | |     $ui-tab-padding: 24px,
+ * 30 | |     $ui-tab-margin: 0,
+ * 31 | |     $ui-tab-font-size: 15px,
+ * 32 | |     $ui-tab-font-size-over: 15px,
+ * 33 | |     $ui-tab-font-size-active: 15px,
+ * 34 | |     $ui-tab-line-height: 19px,
+ * 35 | |     $ui-tab-font-weight: bold,
+ * 36 | |     $ui-tab-font-weight-over: bold,
+ * 37 | |     $ui-tab-font-weight-active: bold,
+ * 38 | |     $ui-tab-icon-width: 24px,
+ * 39 | |     $ui-tab-icon-height: 24px,
+ * 40 | |     $ui-tab-icon-spacing: 5px,
+ * 41 | |     $ui-bar-background-color: #404040,
+ * 42 | |     $ui-bar-background-gradient: 'none',
+ * 43 | |     $ui-bar-padding: 0,
+ * 44 | |     $ui-strip-height: 0
+ * 45 | | );
+ *    | '-^
+ *    '
+ *   Main.scss 11:1  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined mixin.\a    \2577 \a 11 \2502  \250c  @include extjs-tab-panel-ui(\a 12 \2502  \2502      $ui: 'navigation',\a 13 \2502  \2502      $ui-tab-background-color: transparent,\a 14 \2502  \2502      $ui-tab-background-color-over: #505050,\a 15 \2502  \2502      $ui-tab-background-color-active: #303030,\a 16 \2502  \2502      $ui-tab-background-gradient: 'none',\a 17 \2502  \2502      $ui-tab-background-gradient-over: 'none',\a 18 \2502  \2502      $ui-tab-background-gradient-active: 'none',\a 19 \2502  \2502      $ui-tab-color: #acacac,\a 20 \2502  \2502      $ui-tab-color-over: #c4c4c4,\a 21 \2502  \2502      $ui-tab-color-active: #fff,\a 22 \2502  \2502      $ui-tab-glyph-color: #acacac,\a 23 \2502  \2502      $ui-tab-glyph-color-over: #c4c4c4,\a 24 \2502  \2502      $ui-tab-glyph-color-active: #fff,\a 25 \2502  \2502      $ui-tab-glyph-opacity: 1,\a 26 \2502  \2502      $ui-tab-border-radius: 0,\a 27 \2502  \2502      $ui-tab-border-width: 0,\a 28 \2502  \2502      $ui-tab-inner-border-width: 0,\a 29 \2502  \2502      $ui-tab-padding: 24px,\a 30 \2502  \2502      $ui-tab-margin: 0,\a 31 \2502  \2502      $ui-tab-font-size: 15px,\a 32 \2502  \2502      $ui-tab-font-size-over: 15px,\a 33 \2502  \2502      $ui-tab-font-size-active: 15px,\a 34 \2502  \2502      $ui-tab-line-height: 19px,\a 35 \2502  \2502      $ui-tab-font-weight: bold,\a 36 \2502  \2502      $ui-tab-font-weight-over: bold,\a 37 \2502  \2502      $ui-tab-font-weight-active: bold,\a 38 \2502  \2502      $ui-tab-icon-width: 24px,\a 39 \2502  \2502      $ui-tab-icon-height: 24px,\a 40 \2502  \2502      $ui-tab-icon-spacing: 5px,\a 41 \2502  \2502      $ui-bar-background-color: #404040,\a 42 \2502  \2502      $ui-bar-background-gradient: 'none',\a 43 \2502  \2502      $ui-bar-padding: 0,\a 44 \2502  \2502      $ui-strip-height: 0\a 45 \2502  \2502  );\a    \2502  \2514 \2500 ^\a    \2575 \a   Main.scss 11:1  root stylesheet";
+}

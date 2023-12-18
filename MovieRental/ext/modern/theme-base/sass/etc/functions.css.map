@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA;;;;;;GAMG",
+    "sources": [
+        "functions.scss",
+        "functions/calc-math.scss"
+    ],
+    "names": [],
+    "file": "functions.css"
+}

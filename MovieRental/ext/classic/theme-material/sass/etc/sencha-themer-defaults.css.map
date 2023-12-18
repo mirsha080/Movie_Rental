@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "sencha-themer-defaults.scss"
+    ],
+    "names": [],
+    "file": "sencha-themer-defaults.css"
+}

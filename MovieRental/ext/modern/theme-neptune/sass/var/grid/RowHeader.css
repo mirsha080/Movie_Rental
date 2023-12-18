@@ -1,0 +1,175 @@
+/**
+ * @class Ext.grid.RowHeader
+ */
+/**
+ * @var {color}
+ * Grid RowHeader color
+ */
+/**
+ * @var {color}
+ * Grid RowHeader color when {@link Ext.grid.Grid#pinHeaders pinned}
+ */
+/**
+ * @var {color}
+ * Grid RowHeader background-color
+ */
+/**
+ * @var {color}
+ * Grid RowHeader background-color when {@link Ext.grid.Grid#pinHeaders pinned}
+ */
+/**
+ * @var {number/list}
+ * Grid RowHeader border-width
+ */
+/**
+ * @var {string}
+ * Grid RowHeader border-style
+ */
+/**
+ * @var {color}
+ * Grid RowHeader border-color
+ */
+/**
+ * @var {color}
+ * Grid RowHeader border-color when {@link Ext.grid.Grid#pinHeaders pinned}
+ */
+/**
+ * @var {number}
+ * Grid RowHeader outline-width when focused
+ */
+/**
+ * @var {string}
+ * Grid RowHeader outline-style when focused
+ */
+/**
+ * @var {color}
+ * Grid RowHeader outline-color when focused
+ */
+/**
+ * @var {number}
+ * Grid RowHeader outline-offset when focused
+ */
+/**
+ * @var {list}
+ * Grid RowHeader box-shadow
+ */
+/**
+ * @var {list}
+ * Grid RowHeader box-shadow when {@link Ext.grid.Grid#pinHeaders pinned}
+ */
+/**
+ * @var {list}
+ * Grid RowHeader box-shadow when {@link Ext.grid.Grid#pinFooters pinned} to the bottom
+ */
+/**
+ * @var {string/number}
+ * Grid RowHeader font-weight
+ */
+/**
+ * @var {number}
+ * Grid RowHeader font-size
+ */
+/**
+ * @var {number}
+ * Grid RowHeader font-size in the {@link Global_CSS#$enable-big big} sizing scheme
+ */
+/**
+ * @var {number}
+ * Grid RowHeader line-height
+ */
+/**
+ * @var {number}
+ * Grid RowHeader line-height in the {@link Global_CSS#$enable-big big} sizing scheme
+ */
+/**
+ * @var {string}
+ * Grid RowHeader font-family
+ */
+/**
+ * @var {number/list}
+ * Grid RowHeader padding
+ */
+/**
+ * @var {number/list}
+ * Grid RowHeader padding in the {@link Global_CSS#$enable-big big} sizing scheme
+ */
+/**
+ * Creates a visual theme for a Grid RowHeader.
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {String} [$xtype=rowheader] (protected) The {@link Ext.Class#xtype} to use
+ * in CSS selectors.  For use by UI mixins of derived classes.
+ *
+ * @param {color} $color
+ * Grid RowHeader color
+ *
+ * @param {color} $pinned-color
+ * Grid RowHeader color when {@link Ext.grid.Grid#pinHeaders pinned}
+ *
+ * @param {color} $background-color
+ * Grid RowHeader background-color
+ *
+ * @param {color} $pinned-background-color
+ * Grid RowHeader background-color when {@link Ext.grid.Grid#pinHeaders pinned}
+ *
+ * @param {number/list} $border-width
+ * Grid RowHeader border-width
+ *
+ * @param {string} $border-style
+ * Grid RowHeader border-style
+ *
+ * @param {color} $border-color
+ * Grid RowHeader border-color
+ *
+ * @param {color} $pinned-border-color
+ * Grid RowHeader border-color when {@link Ext.grid.Grid#pinHeaders pinned}
+ *
+ * @param {number} $focused-outline-width
+ * Grid RowHeader outline-width when focused
+ *
+ * @param {string} $focused-outline-style
+ * Grid RowHeader outline-style when focused
+ *
+ * @param {color} $focused-outline-color
+ * Grid RowHeader outline-color when focused
+ *
+ * @param {number} $focused-outline-offset
+ * Grid RowHeader outline-offset when focused
+ *
+ * @param {list} $box-shadow
+ * Grid RowHeader box-shadow
+ *
+ * @param {list} $pinned-box-shadow
+ * Grid RowHeader box-shadow when {@link Ext.grid.Grid#pinHeaders pinned}
+ *
+ * @param {list} $pinned-bottom-box-shadow
+ * Grid RowHeader box-shadow when {@link Ext.grid.Grid#pinFooters pinned} to the bottom
+ *
+ * @param {string/number} $font-weight
+ * Grid RowHeader font-weight
+ *
+ * @param {number} $font-size
+ * Grid RowHeader font-size
+ *
+ * @param {number} $font-size-big
+ * Grid RowHeader font-size in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {number} $line-height
+ * Grid RowHeader line-height
+ *
+ * @param {number} $line-height-big
+ * Grid RowHeader line-height in the {@link Global_CSS#$enable-big big} sizing scheme
+ *
+ * @param {string} $font-family
+ * Grid RowHeader font-family
+ *
+ * @param {number/list} $padding
+ * Grid RowHeader padding
+ *
+ * @param {number/list} $padding-big
+ * Grid RowHeader padding in the {@link Global_CSS#$enable-big big} sizing scheme
+ */
+/*# sourceMappingURL=RowHeader.css.map */

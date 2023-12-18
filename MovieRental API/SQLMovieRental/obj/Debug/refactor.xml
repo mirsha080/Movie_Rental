@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="2d8ec91b-f519-4eab-bbc1-97f3929d9f10" ChangeDateTime="06/22/2023 07:17:13" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Movie].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Movie]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="movie_id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3dca242d-2b98-4e38-99ff-b415e05213c9" ChangeDateTime="06/22/2023 07:23:56" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Movie].[description]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Movie]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="title" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3b40b4a9-6132-46c9-87bb-0e23525d5906" ChangeDateTime="06/22/2023 08:05:52" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Genra].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Genra]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="genra_id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="92831d07-beac-4f85-839f-3b3a73eaa7d6" ChangeDateTime="06/22/2023 08:23:46" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Rental].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="rental_id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="76c339bd-9395-4553-af62-3e6490dd2037" ChangeDateTime="06/22/2023 08:26:06" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Customer].[customer_d]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Customer]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="customer_id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6dd9f991-cf04-46c5-a66c-fb88f8df83cb" ChangeDateTime="06/22/2023 08:27:01" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Rental].[rented_on]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="date_of_rent" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2c0131c0-022b-4a63-9318-d74303c7a13f" ChangeDateTime="06/22/2023 08:27:11" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Rental].[date_of_rent]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="rent_date" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="292f3209-4a6b-4cf8-9661-a1b331c4f146" ChangeDateTime="06/22/2023 08:28:00" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Customer].[contact num]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Customer]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="contact_num" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="24ca194e-8391-44d9-97b5-aa5357da87b1" ChangeDateTime="06/22/2023 08:28:05" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Customer].[birthdate]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Customer]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="birth_date" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="32a80eab-8181-4670-b0d5-f3229bba6b74" ChangeDateTime="07/05/2023 09:04:45" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Rental].[rent_date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="date" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e536eb1d-7f71-4a33-a415-01e40771b4ad" ChangeDateTime="07/05/2023 09:10:49" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[movie_rental].[return_date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[movie_rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="rented_on" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="dc542610-dc71-4bff-a1af-320533d1cd40" ChangeDateTime="07/05/2023 09:10:56" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[movie_rental].[status]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[movie_rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="returned_on" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a06bdb12-2e6a-4e27-8ceb-e7d887010911" ChangeDateTime="07/05/2023 09:16:20" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[movie_rental].[returned_on]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[movie_rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="returned" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="1d4d69f6-4d79-421a-a78e-a5fd692fa394" ChangeDateTime="07/05/2023 09:17:31" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[movie_rental].[returned]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[movie_rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="date_returned" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="77b53e97-d25c-4c56-8116-c82202105651" ChangeDateTime="07/05/2023 09:18:15" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Rental].[date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="rent_date" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="27d1a6f7-e414-4325-97c5-498956d74306" ChangeDateTime="07/09/2023 14:20:40" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[movie_rental].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[movie_rental]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="items_id" />
+  </Operation>
+</Operations>

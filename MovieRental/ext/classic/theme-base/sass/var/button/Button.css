@@ -1,0 +1,15 @@
+/**
+ * generates base style rules for both tabs and buttons
+ *
+ * @param {string} [$base-cls='button']
+ *
+ * @param {string} [$btn-display=inline-block]
+ *
+ * @param {boolean} [$include-arrows=true]
+ *
+ * @param {boolean} [$flexbox=true]
+ *
+ * @member Ext.button.Button
+ * @private
+ */
+/*# sourceMappingURL=Button.css.map */

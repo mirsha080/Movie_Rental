@@ -1,0 +1,121 @@
+/**
+ * Creates a visual theme for text fields.  Note this mixin only provides styling
+ * for the form field body, The label and error are styled by {@link #extjs-label-ui}.
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {number} [$ui-height=$form-text-field-height]
+ * The height of the text field
+ *
+ * @param {number} [$ui-font-size=$form-text-field-font-size]
+ * The font-size of the text field
+ *
+ * @param {string} [$ui-font-family=$form-text-field-font-family]
+ * The font-family of the text field
+ *
+ * @param {string} [$ui-font-weight=$form-text-field-font-weight]
+ * The font-weight of the text field
+ *
+ * @param {color} [$ui-color=$form-text-field-color]
+ * The color of the text field's input element
+ *
+ * @param {color} [$ui-background-color=$form-text-field-background-color]
+ * The background color of the text field's input element
+ *
+ * @param {number/list} [$ui-border-width=$form-text-field-border-width]
+ * The border width of the text field
+ *
+ * @param {string/list} [$ui-border-style=$form-text-field-border-style]
+ * The border style of the text field
+ *
+ * @param {color/list} [$ui-border-color=$form-text-field-border-color]
+ * The border color of text fields
+ *
+ * @param {color/list} [$ui-focus-border-color=$form-text-field-focus-border-color]
+ * The border color of the text field when focused
+ *
+ * @param {color} [$ui-invalid-border-color=$form-text-field-invalid-border-color]
+ * The border color of the text field when the field value is invalid.
+ *
+ * @param {number/list} [$ui-border-radius=$form-text-field-border-radius]
+ * The border radius of the text field
+ *
+ * @param {string} [$ui-background-image=$form-text-field-background-image]
+ * The background image of the text field's input element
+ *
+ * @param {number/list} [$ui-padding=$form-text-field-padding]
+ * The padding of the text field's input element
+ *
+ * @param {color} [$ui-empty-color=$form-text-field-empty-color]
+ * Text color for of the text field when empty
+ *
+ * @param {number} [$ui-body-width=$form-text-field-body-width]
+ * The default width of the text field's body element (the element that contains the input
+ * element and triggers) when the field is not sized explicitly using the {@link #width}
+ * config, or sized by it's containing layout.
+ *
+ * @param {color} [$ui-invalid-background-color=$form-field-invalid-background-color]
+ * Background color of the input element when the field value is invalid.
+ *
+ * @param {string} [$ui-invalid-background-image=$form-field-invalid-background-image]
+ * Background image of the input element when the field value is invalid.
+ *
+ * @param {string} [$ui-invalid-background-repeat=$form-field-invalid-background-repeat]
+ * Background repeat of the input element when the field value is invalid.
+ *
+ * @param {string/list} [$ui-invalid-background-position=$form-field-invalid-background-position]
+ * Background position of the input element when the field value is invalid.
+ *
+ * @param {number} [$ui-trigger-width=$form-trigger-width]
+ * The width of the trigger element
+ *
+ * @param {number/list} [$ui-trigger-border-width=$form-trigger-border-width]
+ * The width of the trigger's border
+ *
+ * @param {color/list} [$ui-trigger-border-color=$form-trigger-border-color]
+ * The color of the trigger's border
+ *
+ * @param {string/list} [$ui-trigger-border-style=$form-trigger-border-style]
+ * The style of the trigger's border
+ *
+ * @param {color} [$ui-trigger-border-color-over=$form-trigger-border-color-over]
+ * The color of the trigger's border when hovered
+ *
+ * @param {color} [$ui-trigger-border-color-focus=$form-trigger-border-color-focus]
+ * The color of the trigger's border when the field is focused
+ *
+ * @param {color} [$ui-trigger-border-color-pressed=$form-trigger-border-color-pressed]
+ * The color of the trigger's border when the field is focused and the trigger is hovered
+ *
+ * @param {string} [$ui-trigger-background-image=$form-trigger-background-image]
+ * The default background image for the trigger
+ *
+ * @param {color} [$ui-trigger-background-color=$form-trigger-background-color]
+ * The background color of the trigger element
+ *
+ * @param {string/list} [$ui-trigger-glyph=$form-trigger-glyph]
+ * The default glyph for for text field triggers when {@link Global_CSS#$enable-font-icons} is `true`.
+ *
+ * @param {color} [$ui-trigger-glyph-color=$form-trigger-glyph-color]
+ * The color the trigger when {@link Global_CSS#$enable-font-icons} is `true`.
+ *
+ * @param {number} [$ui-textarea-line-height=$form-textarea-line-height]
+ * The line-height of the textarea element when this mixin is used to style a
+ * {@link Ext.form.field.TextArea TextArea}
+ *
+ * @param {number} [$ui-textarea-body-height=$form-textarea-body-height]
+ * The default width of the TextArea's body element (the element that contains the textarea
+ * html element when the field is not sized explicitly using the {@link #width}config, or
+ * sized by it's containing layout.
+ *
+ * @param {color} [$ui-file-field-color=$form-file-field-color] The text color of the
+ * input element when this mixin is used to style a {@link Ext.form.field.File File Field}
+ *
+ * @param {boolean} [$ui-classic-border=$form-text-field-classic-border]
+ * `true` to use classic-theme styled border.
+ *
+ * @member Ext.form.field.Text
+ */
+/*# sourceMappingURL=Text.css.map */

@@ -1,0 +1,36 @@
+/**
+ * Creates an outline round an element, by default immediately
+ * surrounding the element. It may be offset positively (away from the element bounds)
+ * or negatively (within the element bounds).
+ *
+ * @param {number/list} $width
+ * The outline-width
+ *
+ * @param {string/list} $style
+ * The outline-style
+ *
+ * @param {color/list} $color
+ * The outline-color
+ *
+ * @param {number} $offset
+ * The outline-offset
+ *
+ * @param {string/boolean} [$pseudo=after]
+ * A pseudo element is used to create the appearance of an outline in IE and Edge if
+ * required by $offset.  By default the :after pseudo is used.  Set this to 'before'
+ * if :after is not available.  Set this to `false` to use CSS outline.
+ *
+ * @param {number} $z-index
+ * z-index of the pseudo element
+ *
+ * @param {number/list} $border-width
+ * The border-width of the element that the outline is being applied to.
+ * Since the pseudo element is rendered inside the borders, the border-width needs to be
+ * included in the $offset calculation
+ *
+ * @param {number/list} $border-radius
+ * The border radius of the of pseudo element.
+ *
+ * @private
+ */
+/*# sourceMappingURL=outline.css.map */

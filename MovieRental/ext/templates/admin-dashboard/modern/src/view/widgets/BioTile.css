@@ -1,0 +1,33 @@
+.bio-tile {
+  background-color: #fff;
+}
+
+.bio-banner {
+  background-color: #607d8b;
+}
+
+.bio-banner,
+.bio-image {
+  background-position: top left !important;
+  background-size: 100% auto !important;
+}
+
+.bio-image {
+  width: dynamic(66px);
+  height: dynamic(66px);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  margin-left: -dynamic(66px)/2;
+  margin-top: -dynamic(66px)/2;
+}
+
+.bio-description {
+  padding-top: dynamic(66px)/28px;
+  text-align: center;
+}
+
+.bio-description > .x-innerhtml::first-line {
+  font-weight: 600;
+  font-size: 130%;
+}
+/*# sourceMappingURL=BioTile.css.map */

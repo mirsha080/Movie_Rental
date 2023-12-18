@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AACI,kBADc,CACd,SAAS,AAAA,OAAO,CAAC;EACb,KAAK,EALa,gBAAgB;CAMrC;;AAHL,AAKI,kBALc,CAKd,SAAS,AAAA,SAAS,AAAA,OAAO,CAAC;EACtB,KAAK,EARe,gBAAgB;CASvC;;AAPL,AASI,kBATc,CASd,YAAY,CAAC;EACT,YAAY,EAAE,GAAG;CACpB;;AAXL,AAaI,kBAbc,CAad,oBAAoB,CAAC;EACjB,kBAAkB,EAAE,CAAC;CACxB",
+    "sources": [
+        "Inbox.scss"
+    ],
+    "names": [],
+    "file": "Inbox.css"
+}

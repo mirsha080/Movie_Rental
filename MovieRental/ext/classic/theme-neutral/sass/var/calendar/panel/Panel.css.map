@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;GAEG;AAEH;;;GAGG",
+    "sources": [
+        "Panel.scss"
+    ],
+    "names": [],
+    "file": "Panel.css"
+}

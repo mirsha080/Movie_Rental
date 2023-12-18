@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;GAEG;AAEH;;;;;;;;;;;;;;;;GAgBG;AAgBH;;;;;;;;;;;;;;GAcG;AASH;;;;;;;;;;;;;;GAcG;AASH;;;;;;;;;;;;;;GAcG;AASH;;;;;;;;;;;;;;GAcG;AASH;;;GAGG",
+    "sources": [
+        "border.scss"
+    ],
+    "names": [],
+    "file": "border.css"
+}

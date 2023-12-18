@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,mBADe,CACf,cAAc,CAAC;EACX,gBAAgB,EAAE,wCAAwC;EAC1D,eAAe,EAAE,KAAK;EACtB,iBAAiB,EAAE,MAAM;CAC5B;;AALL,AAOI,mBAPe,AAOd,iBAAiB,CAAC;EACf,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,CAAC;EAChB,OAAO,EAAE,CAAC;CACb",
+    "sources": [
+        "LockingWindow.scss"
+    ],
+    "names": [],
+    "file": "LockingWindow.css"
+}

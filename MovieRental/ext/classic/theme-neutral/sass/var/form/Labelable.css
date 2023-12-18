@@ -1,0 +1,73 @@
+/**
+ * Creates a visual theme for "labelable" form items.  Provides visual styling for the
+ * Label and error message that can be shared between many types of form fields.
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {color} [$ui-font-color=$form-label-font-color]
+ * The text color the label
+ *
+ * @param {string} [$ui-font-weight=$form-label-font-weight]
+ * The font-weight of the label
+ *
+ * @param {number} [$ui-font-size=$form-label-font-size]
+ * The font-size of the label
+ *
+ * @param {string} [$ui-font-family=$form-label-font-family]
+ * The font-family the label
+ *
+ * @param {number} [$ui-height=$form-field-height]
+ * The height of the label.  This should be the same height as the height of fields that
+ * this label ui will be used with.  This does not actually set the height of the label
+ * but is used to ensure that the label is centered within the given height.
+ *
+ * @param {number} [$ui-line-height=$form-label-line-height]
+ * The line-height of the label
+ *
+ * @param {number} [$ui-horizontal-spacing=$form-label-horizontal-spacing]
+ * Horizontal space between the label and the field body when the label is left-aligned.
+ *
+ * @param {number} [$ui-vertical-spacing=$form-label-vertical-spacing]
+ * Vertical space between the label and the field body when the label is top-aligned.
+ *
+ * @param {number} [$ui-error-icon-background-image=$form-error-icon-background-image]
+ * The background-image of the error icon
+ *
+ * @param {number} [$ui-error-icon-width=$form-error-icon-width]
+ * The width of the error icon
+ *
+ * @param {number} [$ui-error-icon-height=$form-error-icon-height]
+ * The height of the error icon
+ *
+ * @param {number/list} [$ui-error-icon-side-margin=$form-error-icon-side-margin]
+ * Margin for error icons when aligned to the side of the field
+ *
+ * @param {number} [$ui-error-under-icon-spacing=$form-error-under-icon-spacing]
+ * The space between the icon and the message for errors that display under the field
+ *
+ * @param {number/list} [$ui-error-under-padding=$form-error-under-padding]
+ * The padding on errors that display under the form field
+ *
+ * @param {color} [$ui-error-msg-color=$form-error-msg-color]
+ * The text color of form error messages
+ *
+ * @param {string} [$ui-error-msg-font-weight=$form-error-msg-font-weight]
+ * The font-weight of form error messages
+ *
+ * @param {number} [$ui-error-msg-font-size=$form-error-msg-font-size]
+ * The font-size of form error messages
+ *
+ * @param {string} [$ui-error-msg-font-family=$form-error-msg-font-family]
+ * The font-family of form error messages
+ *
+ * @param {number} [$ui-error-msg-line-height=$form-error-msg-line-height]
+ * The line-height of form error messages
+ *
+ * @param {number} [$ui-disabled-opacity=$form-field-disabled-opacity]
+ * Opacity of disabled form fields
+ *
+ * @member Ext.form.Labelable
+ */
+/*# sourceMappingURL=Labelable.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;GAEG;AAEH;;;GAGG;AAGH;;;GAGG;AAGH;;;;;;;;;;;;;;;GAeG",
+    "sources": [
+        "Widget.scss"
+    ],
+    "names": [],
+    "file": "Widget.css"
+}

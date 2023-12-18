@@ -1,0 +1,16 @@
+.email-inbox-panel .fa-heart:before {
+  color: dynamic(#facc6e);
+}
+
+.email-inbox-panel .fa-heart.inactive:before {
+  color: dynamic(#b2b2b2);
+}
+
+.email-inbox-panel .x-grid-body {
+  border-width: 1px;
+}
+
+.email-inbox-panel .x-grid-cell-special {
+  border-right-width: 0;
+}
+/*# sourceMappingURL=Inbox.css.map */

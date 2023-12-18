@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "font-awesome-variables.scss",
+        "../../packages/font-awesome/sass/etc/_variables.scss"
+    ],
+    "names": [],
+    "file": "font-awesome-variables.css"
+}

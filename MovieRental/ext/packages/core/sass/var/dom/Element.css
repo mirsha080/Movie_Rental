@@ -1,0 +1,20 @@
+/**
+ * @class Global_CSS
+ */
+/**
+ * @var {transition} $ripple-transition
+ * Transition used for ripple effects
+ */
+/**
+ * @var {color} $ripple-background-color
+ * Default background color to use for ripple effects
+ */
+/**
+ * @var {color} $ripple-confirm-background-color
+ * Background color to use for ripple effects on confirm UIs
+ */
+/**
+ * @var {color} $ripple-decline-background-color
+ * Background color to use for ripple effects on decline UIs
+ */
+/*# sourceMappingURL=Element.css.map */

@@ -1,0 +1,28 @@
+/**
+ * @class Ext.grid.cell.Widget
+ */
+/**
+ * @var {number/list}
+ * Widget cell padding
+ */
+/**
+ * @var {number/list}
+ * Widget cell padding in the {@link Global_CSS#$enable-big big} sizing scheme
+ */
+/**
+ * Creates a visual theme for a Widget cell.
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {String} [$xtype=checkcell] (protected) The {@link Ext.Class#xtype} to use
+ * in CSS selectors.  For use by UI mixins of derived classes.
+ *
+ * @param {number/list} $padding
+ * Widget cell padding
+ *
+ * @param {number/list} $padding-big
+ * Widget cell padding in the {@link Global_CSS#$enable-big big} sizing scheme
+ */
+/*# sourceMappingURL=Widget.css.map */

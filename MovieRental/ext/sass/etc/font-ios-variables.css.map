@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "font-ios-variables.scss"
+    ],
+    "names": [],
+    "file": "font-ios-variables.css"
+}

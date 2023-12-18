@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "ext-hyphens.scss"
+    ],
+    "names": [],
+    "file": "ext-hyphens.css"
+}

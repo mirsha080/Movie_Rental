@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "functions.scss",
+        "functions/button-colors.scss",
+        "functions/toolbar-colors.scss"
+    ],
+    "names": [],
+    "file": "functions.css"
+}

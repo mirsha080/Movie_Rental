@@ -1,0 +1,127 @@
+/**
+ * Creates a visual theme for a {@link Ext.layout.container.boxOverflow.Scroller Box Scroller}
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {string} $type
+ * The type of component that this box scroller will be used with.  For example 'toolbar'
+ * or 'tab-bar'
+ *
+ * @param {number} [$horizontal-width=16px]
+ * The width of horizontal scroller buttons
+ *
+ * @param {Number} [$horizontal-height=16px]
+ * The height of horizontal scroller buttons
+ *
+ * @param {number} [$vertical-width=16px]
+ * The width of vertical scroller buttons
+ *
+ * @param {Number} [$vertical-height=16px]
+ * The height of vertical scroller buttons
+ *
+ * @param {number/list} [$top-margin=0]
+ * The margin of the "top" scroller button
+ *
+ * @param {number/list} [$right-margin=0]
+ * The margin of the "right" scroller button
+ *
+ * @param {number/list} [$bottom-margin=0]
+ * The margin of the "bottom" scroller button
+ *
+ * @param {number/list} [$left-margin=0]
+ * The margin of the "left" scroller button
+ *
+ * @param {number/list} $top-background-image
+ * The background-image of the "top" scroller button
+ *
+ * @param {number/list} $right-background-image
+ * The background-image of the "right" scroller button
+ *
+ * @param {number/list} $bottom-background-image
+ * The background-image of the "bottom" scroller button
+ *
+ * @param {number/list} $left-background-image
+ * The background-image of the "left" scroller button
+ *
+ * @param {color} $glyph-color
+ * The color of the scroller button icons
+ *
+ * @param {number/list} $top-glyph
+ * The glyph for the "top" scroller button
+ *
+ * @param {number/list} $right-glyph
+ * The glyph for the "right" scroller button
+ *
+ * @param {number/list} $bottom-glyph
+ * The glyph for the "bottom" scroller button
+ *
+ * @param {number/list} $left-glyph
+ * The glyph for the "left" scroller button
+ *
+ * @param {number} [$horizontal-border-color=$base-color]
+ * The border color of the scroller buttons
+ *
+ * @param {number} [$horizontal-border-width=0]
+ * The border-width of the scroller buttons
+ *
+ * @param {number} [$vertical-border-color=$base-color]
+ * The border-width of the scroller buttons
+ *
+ * @param {number} [$vertical-border-width=0]
+ * The border-width of the scroller buttons
+ *
+ * @param {number/list} [$container-padding=0]
+ * The padding of the container that these scroller buttons will be used in.  Used for
+ * setting margin offsets of the inner layout element to reserve space for the scrollers.
+ *
+ * @param {string} [$cursor=pointer]
+ * The type of cursor to display when the mouse is over a scroller button
+ *
+ * @param {string} [$cursor-disabled=default]
+ * The type of cursor to display when the mouse is over a disabled scroller button
+ *
+ * @param {string} [$align=middle]
+ * Vertical alignment of the scroller buttons, or horizontal align of vertically oriented
+ * scroller buttons. Can be one of the following values:
+ *
+ * - `begin`
+ * - `middle`
+ * - `end`
+ * - `stretch`
+ *
+ * @param {string} [$align-offset=0]
+ * Number of pixels to offset the alignment of the scroller.
+ * Only applicable when {@link #align} is `middle`.
+ *
+ * @param {number} [$opacity=0.6]
+ * The opacity of the scroller buttons. Only applicable when `$classic` is `false`.
+ *
+ * @param {number} [$opacity-over=0.8]
+ * The opacity of hovered scroller buttons. Only applicable when `$classic` is `false`.
+ *
+ * @param {number} [$opacity-pressed=1]
+ * The opacity of pressed scroller buttons. Only applicable when `$classic` is `false`.
+ *
+ * @param {number} [$opacity-disabled=0.25]
+ * The opacity of disabled scroller buttons. Only applicable when `$classic` is `false`.
+ *
+ * @param {boolean} [$classic=false]
+ * `true` to use classic-style scroller buttons.  When `true` scroller buttons are given
+ * their hover state by changing their background-position,  When `false` scroller buttons
+ * are given their hover state by applying opacity.
+ *
+ * @param {boolean} [$include-horizontal=true]
+ * `true` to include horizontal
+ *
+ * @param {boolean} [$include-vertical=true]
+ * `true` to include vertical
+ *
+ * @param {boolean} [$include-background-images=true]
+ * `true` to include background-images
+ *
+ * @member Ext.layout.container.Box
+ * @private
+ */
+/*# sourceMappingURL=Box.css.map */

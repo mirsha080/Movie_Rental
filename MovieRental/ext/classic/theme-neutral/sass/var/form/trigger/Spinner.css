@@ -1,0 +1,53 @@
+/**
+ * Creates a visual theme for spinner field triggers.  Note this mixin only provides
+ * styling for the spinner trigger buttons. The text field portion of the styling must be
+ * created using {@link Ext.form.field.Text#css_mixin-extjs-text-field-ui}
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {boolean} [$ui-trigger-vertical=$spinner-trigger-vertical]
+ * `true` to align the up/down triggers vertically.
+ *
+ * @param {number} [$ui-trigger-width=$form-trigger-width]
+ * The width of the triggers.
+ *
+ * @param {number} [$ui-field-height=$form-text-field-height]
+ * The height of the text field that the trigger must fit within.  This does not set the
+ * height of the field, only the height of the triggers.  When {@link #css_mixin-extjs-spinner-trigger-ui $ui-trigger-vertical}
+ * is true, the available height within the field borders is divided evenly between the
+ * two triggers.
+ *
+ * @param {number/list} [$ui-field-border-width=$form-text-field-border-width]
+ * The border width of the text field that the trigger must fit within.  This does not set
+ * the border of the field, it is only needed so that the border-width of the field can
+ * be subtracted from the trigger height.
+ *
+ * @param {string} [$ui-trigger-vertical-background-image=$spinner-trigger-vertical-background-image]
+ * The background image sprite for vertically aligned spinner triggers
+ *
+ * @param {string} [$ui-trigger-up-background-image='form/spinner-up']
+ * The background image for the "up" trigger when triggers are horizontally aligned
+ *
+ * @param {string} [$ui-trigger-down-background-image='form/spinner-down']
+ * The background image for the "down" trigger when triggers are horizontally aligned
+ *
+ * @param {string/list} [$ui-trigger-up-glyph=$spinner-trigger-up-glyph]
+ * The glyph for the "up" spinner trigger trigger when {@link Global_CSS#$enable-font-icons} is `true`.
+ *
+ * @param {string/list} [$ui-trigger-down-glyph=$spinner-trigger-down-glyph]
+ * The glyph for the "down" spinner trigger trigger when {@link Global_CSS#$enable-font-icons} is `true`.
+ *
+ * @param {color} [$ui-trigger-glyph-color=$spinner-trigger-glyph-color]
+ * The color of spinner triggers when {@link Global_CSS#$enable-font-icons} is `true`.
+ *
+ * @param {color} [$ui-trigger-background-color=$form-text-field-background-color]
+ * The background color of the spinner triggers
+ *
+ * @param {boolean} [$ui-classic-border=$form-text-field-classic-border]
+ * `true` to use classic-theme styled border.
+ *
+ * @member Ext.form.trigger.Spinner
+ */
+/*# sourceMappingURL=Spinner.css.map */

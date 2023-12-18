@@ -1,0 +1,154 @@
+/**
+ * @class Ext.grid.Row
+ */
+/**
+ * @var {color}
+ * Grid Row text color
+ */
+/**
+ * @var {color}
+ * Grid Row text color when hovered
+ */
+/**
+ * @var {color}
+ * Grid Row text color when selected
+ */
+/**
+ * @var {color}
+ * Grid Row text color when pressed
+ */
+/**
+ * @var {color}
+ * Grid Row text color when pinned
+ */
+/**
+ * @var {color}
+ * Grid Row background-color
+ */
+/**
+ * @var {color}
+ * background-color for `striped` Grid Rows
+ */
+/**
+ * @var {color}
+ * Grid Row background-color when hovered
+ */
+/**
+ * @var {color}
+ * Grid Row background-color when selected
+ */
+/**
+ * @var {color}
+ * Grid Row background-color when pressed
+ */
+/**
+ * @var {color}
+ * Grid Row background-color when pinned
+ */
+/**
+ * @var {number/list}
+ * Grid Row border-width
+ */
+/**
+ * @var {string}
+ * Grid Row border-style
+ */
+/**
+ * @var {color}
+ * Grid Row border-color
+ */
+/**
+ * @var {color}
+ * Grid Row border-color when hovered
+ */
+/**
+ * @var {color}
+ * Grid Row border-color when selected
+ */
+/**
+ * @var {color}
+ * Grid Row border-color when pressed
+ */
+/**
+ * @var {color}
+ * Grid Row border-color when pinned
+ */
+/**
+ * @var {list}
+ * Grid Row border-color when pinned
+ */
+/**
+ * @var {list}
+ * Grid Row border-color when pinned to the bottom
+ */
+/**
+ * Creates a visual theme for a Grid Row.
+ *
+ * @param {string} $ui
+ * The name of the UI being created. Can not included spaces or special punctuation
+ * (used in CSS class names).
+ *
+ * @param {String} [$xtype=gridrow] (protected) The {@link Ext.Class#xtype} to use
+ * in CSS selectors.  For use by UI mixins of derived classes.
+ *
+ * @param {color} $color
+ * Grid Row text color
+ *
+ * @param {color} $hovered-color
+ * Grid Row text color when hovered
+ *
+ * @param {color} $selected-color
+ * Grid Row text color when selected
+ *
+ * @param {color} $pressed-color
+ * Grid Row text color when pressed
+ *
+ * @param {color} $pinned-color
+ * Grid Row text color when pinned
+ *
+ * @param {color} $background-color
+ * Grid Row background-color
+ *
+ * @param {color} $alt-background-color
+ * background-color for `striped` Grid Rows
+ *
+ * @param {color} $hovered-background-color
+ * Grid Row background-color when hovered
+ *
+ * @param {color} $selected-background-color
+ * Grid Row background-color when selected
+ *
+ * @param {color} $pressed-background-color
+ * Grid Row background-color when pressed
+ *
+ * @param {color} $pinned-background-color
+ * Grid Row background-color when pinned
+ *
+ * @param {number/list} $border-width
+ * Grid Row border-width
+ *
+ * @param {string} $border-style
+ * Grid Row border-style
+ *
+ * @param {color} $border-color
+ * Grid Row border-color
+ *
+ * @param {color} $hovered-border-color
+ * Grid Row border-color when hovered
+ *
+ * @param {color} $selected-border-color
+ * Grid Row border-color when selected
+ *
+ * @param {color} $pressed-border-color
+ * Grid Row border-color when pressed
+ *
+ * @param {color} $pinned-border-color
+ * Grid Row border-color when pinned
+ *
+ * @param {list} $pinned-box-shadow
+ * Grid Row border-color when pinned
+ *
+ * @param {list} $pinned-bottom-box-shadow
+ * Grid Row border-color when pinned to the bottom
+ */
+/*# sourceMappingURL=Row.css.map */

@@ -1,0 +1,59 @@
+/**
+ * @class Global_CSS
+ */
+/**
+ * @var [$color-by-background-dark-color=null]
+ */
+/**
+ * @method brightness
+ * @ignore
+ * Returns the brightness (out of 100) of a specified color.
+ * @param {color} $color The color you want the brightness value of
+ * @return {number}
+ */
+/**
+ * @method color-difference
+ * @param {color} $c1
+ * @param {color} $c2
+ * @private
+ * @ignore
+ */
+/**
+ * @method color-luminance
+ * @param {color} $value
+ * @private
+ * @ignore
+ */
+/**
+ * @method luminosity
+ * @ignore
+ * Returns the luminosity for a specified color
+ * @param {color} color The color to check
+ * @return {number}
+ */
+/**
+ * @method contrast-ratio
+ * @ignore
+ * Returns the contrast ratio between two colors
+ * @param {color} $color1 The color to check
+ * @param {color} $color2 The color to check against
+ * @return {number}
+ */
+/**
+ * Colors the text of an element based on lightness of its background.
+ *
+ *     .my-element {
+ *       @include color-by-background(#fff); // Colors text black.
+ *     }
+ *
+ *     .my-element {
+ *       @include color-by-background(#fff, 40%); // Colors text gray.
+ *     }
+ *
+ * @param {color} $bg-color Background color of element.
+ * @param {percent} [$contrast=$default-text-contrast] Contrast of text color to its background.
+ * @param {boolean} [$default-color=false]
+ * @param {boolean} [$inset-text=false]
+ *
+ */
+/*# sourceMappingURL=color.css.map */

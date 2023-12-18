@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA;;;;;;;GAOG",
+    "sources": [
+        "grid-field.scss"
+    ],
+    "names": [],
+    "file": "grid-field.css"
+}

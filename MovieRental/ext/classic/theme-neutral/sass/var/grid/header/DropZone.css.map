@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;GAEG;AACH;;;GAGG",
+    "sources": [
+        "DropZone.scss"
+    ],
+    "names": [],
+    "file": "DropZone.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;GAEG;AAEH;;;GAGG;AAGH;;;GAGG;AAGH;;;GAGG;AAGH;;;GAGG",
+    "sources": [
+        "Element.scss"
+    ],
+    "names": [],
+    "file": "Element.css"
+}

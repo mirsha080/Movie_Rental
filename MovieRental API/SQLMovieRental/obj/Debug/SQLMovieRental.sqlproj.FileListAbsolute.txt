@@ -1,0 +1,10 @@
+E:\New folder\MovieRental\SQLMovieRental\bin\Debug\SQLMovieRental.dacpac
+E:\New folder\MovieRental\SQLMovieRental\bin\Debug\SQLMovieRental.dll
+E:\New folder\MovieRental\SQLMovieRental\bin\Debug\SQLMovieRental.pdb
+E:\New folder\MovieRental\SQLMovieRental\obj\Debug\SQLMovieRental.sqlproj.AssemblyReference.cache
+E:\New folder\MovieRental\SQLMovieRental\obj\Debug\SQLMovieRental.dll
+E:\New folder\MovieRental\SQLMovieRental\obj\Debug\SQLMovieRental.pdb
+E:\New folder\MovieRental\SQLMovieRental\obj\Debug\Model.xml
+E:\New folder\MovieRental\SQLMovieRental\obj\Debug\refactor.xml
+E:\New folder\MovieRental\SQLMovieRental\obj\Debug\postdeploy.sql
+E:\New folder\MovieRental\SQLMovieRental\obj\Debug\predeploy.sql

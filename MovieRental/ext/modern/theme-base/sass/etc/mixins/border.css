@@ -1,0 +1,85 @@
+/**
+ * @class Global_CSS
+ */
+/**
+ * Creates a border on an element.
+ * If any of the parameters is specified as a list, or if any parameter is null,
+ * border-style, border-width, and border-color will be specified as separate properties,
+ * otherwise all will be collapsed into a single "border" property.
+ *
+ * @param {number/list} $width
+ * The border-width
+ *
+ * @param {string/list} $style
+ * The border-style
+ *
+ * @param {color/list} $color
+ * The border-color
+ *
+ * @private
+ */
+/**
+ * Creates a top border.  If all arguments are non-null they will be collapsed into a single
+ * border property.
+ *
+ * @param {number/list} $width
+ * The border-width
+ *
+ * @param {string/list} $style
+ * The border-style
+ *
+ * @param {color/list} $color
+ * The border-color
+ *
+ * @private
+ */
+/**
+ * Creates a right border.  If all arguments are non-null they will be collapsed into a single
+ * border property.
+ *
+ * @param {number/list} $width
+ * The border-width
+ *
+ * @param {string/list} $style
+ * The border-style
+ *
+ * @param {color/list} $color
+ * The border-color
+ *
+ * @private
+ */
+/**
+ * Creates a bottom border.  If all arguments are non-null they will be collapsed into a single
+ * border property.
+ *
+ * @param {number/list} $width
+ * The border-width
+ *
+ * @param {string/list} $style
+ * The border-style
+ *
+ * @param {color/list} $color
+ * The border-color
+ *
+ * @private
+ */
+/**
+ * Creates a left border.  If all arguments are non-null they will be collapsed into a single
+ * border property.
+ *
+ * @param {number/list} $width
+ * The border-width
+ *
+ * @param {string/list} $style
+ * The border-style
+ *
+ * @param {color/list} $color
+ * The border-color
+ *
+ * @private
+ */
+/**
+ * Convenience mixin for border-top, border-right, border-bottom, and border-left
+ * @private
+ */
+/*# sourceMappingURL=border.css.map */
